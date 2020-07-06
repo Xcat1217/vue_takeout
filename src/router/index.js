@@ -15,7 +15,7 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/Home',
+    path: '/',
     component: Home
   },
   {
